@@ -16,3 +16,19 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.embed-item {
+  width: 100%;
+}
+
+embed-4by1 {
+  width: 100%;
+}
+
+embed-4by3 {
+  width: 100%;
+}
+
+embed-16by9 {
+  width: 100%;
+}
